@@ -8,6 +8,7 @@ def filter_list(l):
     return filtered_list  # returns our new list with only just an integers.
 
 
+# sample tests
 filter_list([1, 2, 'a', 'b'])
 filter_list([1, 2, 'a', 'b'])
 filter_list([1, 'a', 'b', 0, 15])
